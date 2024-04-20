@@ -1,7 +1,7 @@
 
 # AWS IAM Role Policy Validator
 
-This project provides a Python script that validates AWS IAM Role Policy JSON files and checks for the use of the a single asterisk '*' in the Resource field.
+This project provides a Python script that validates AWS IAM Role Policy JSON files and checks for the use of a single asterisk '*' in the Resource field.
 ## Prerequisites
 
 Before running the script, ensure you have the following installed:
